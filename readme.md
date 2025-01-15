@@ -4,7 +4,7 @@
 The Typing Speed Tester Application is a simple tool designed to measure and improve your typing speed. It provides users with a text to type and calculates their typing speed in words per minute (WPM) along with accuracy.
 
 ## Beta Testing
-type-speed-test007.netlify.app
+[type-speed-test007.netlify.app](type-speed-test007.netlify.app)
 
 ## Features
 - Real-time typing speed calculation
